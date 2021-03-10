@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class BasicScript : MonoBehaviour
 {
-    public Vector3 rotation = new Vector3(0, 2.0f, 0);
+    public Vector3 rotation = new Vector3(0, 0, 5.0f);
     // Start is called before the first frame update
     void Start()
     {
